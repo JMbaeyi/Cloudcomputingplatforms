@@ -1,5 +1,5 @@
 # Cloud Computing Platforms: AWS, GCP, and Azure
-#IMBAEYI CHIBUIKEM VUG/CSC/22/6952 CSC 302 LAB ACTIVITY The Cloud Storage Comparisons Betweeen AWS, GCP, And Microsoft Azure
+#MBAEYI CHIBUIKEM VUG/CSC/22/6952 CSC 302 LAB ACTIVITY The Cloud Storage Comparisons Betweeen AWS, GCP, And Microsoft Azure
 
 #BELOW IS THE LINK TO MY GOOGLE DRIVE LINK WHICH CONTAINS MY VIDEO : https://drive.google.com/drive/folders/1o-Xdb5UBl2iaQVZdyxlHimnttMbSSX7W?usp=sharing
 
