@@ -1,4 +1,7 @@
 # Cloud Computing Platforms: AWS, GCP, and Azure
+#IMBAEYI CHIBUIKEM VUG/CSC/22/6952 CSC 302 LAB ACTIVITY The Cloud Storage Comparisons Betweeen AWS, GCP, And Microsoft Azure
+
+#BELOW IS THE LINK TO MY GOOGLE DRIVE LINK WHICH CONTAINS MY VIDEO : https://drive.google.com/drive/folders/1o-Xdb5UBl2iaQVZdyxlHimnttMbSSX7W?usp=sharing
 
 ## Overview
 Cloud computing has revolutionized modern IT infrastructure, enabling businesses to deploy, scale, and manage applications with ease. This repository contains video documentation on three leading cloud platforms: **Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure**. Each video provides an in-depth overview of the respective platform, highlighting its key services, advantages, and real-world applications.
